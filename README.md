@@ -3,7 +3,7 @@
 <h1></h1>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2023. Our team consist of 6 people from Machine Learning Path, Mobile Development Path and Cloud Computing Path.
 
-This project consist of several repository from all learning path.</p>
+This project consist of several repository from all learning path. Please check project repositories section below. </p>
 
 ## Our Capstone Member
 |            Name             |  Bangkit ID  |       Path         |
@@ -69,6 +69,15 @@ These are repositories of our project :
 - [Machine Learning Food Recommendation System](https://github.com/hermanyosep/FRS_C23-PS423) <br>
 - [Mobile Development](https://github.com/abdullathifaziz/PC_IDoEat) <br>
 - [Cloud Computing](https://github.com/danicakirana/C23PS423_CC) <br>
+
+### Getting Started with This Project
+You can start run this project by cloning our repository
+```
+!git clone https://github.com/abriyanyusuf/C23PS423_Food-Object-Detection.git
+!git clone https://github.com/hermanyosep/FRS_C23-PS423.git
+!git clone https://github.com/abdullathifaziz/PC_IDoEat.git
+!git clone https://github.com/danicakirana/C23PS423_CC.git
+```
 
 ### Public Dataset 
 [ECUST Food Dataset](https://github.com/Liang-yc/ECUSTFD-resized-) <br>
