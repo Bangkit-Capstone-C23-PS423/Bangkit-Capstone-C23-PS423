@@ -3,7 +3,7 @@
 <h1></h1>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2023. Our team consist of 6 people from Machine Learning Path, Mobile Development Path and Cloud Computing Path.
 
-All of the project management we take a place with Github repository, to distinguish each path we create a repository in each team member Github Repository.</p>
+This project consist of several repository from all learning path.</p>
 
 ## Our Capstone Member
 |            Name             |  Bangkit ID  |       Path         |
@@ -50,47 +50,31 @@ Reviews from Oct 1999 - Oct 2012
 ### Mobile Development 
 In this project, mobile development using Kotlin to develop all in the application. In this project there are 2 main contributors who are also students from the learning path mobile development. below is a main features of our application:
 - Login & Registration User
-- Food object recognition with cameraX
+- Edit User Identity
+- Object Detection food with camera
+- Food Recommendations
 
 ### Cloud Computing
 Cloud Computing in here as backend services to connect from machine learning model and mobile development with android platform, below is the infrastructure of cloud computing:
 - Google Cloud Platform
-- Firebase
+- FastApi
 - Cloud Run
 - Cloud Storage
-- Cloud SQL
+- Firebase Realtime Database
 
 
-## Tech stack
-![Machine Learning Infrastructure](https://raw.githubusercontent.com/)
-![Mobile Development Infrastructure](https://raw.githubusercontent.com/)
-![Cloud Computing Infrastructure](https://raw.githubusercontent.com/)
+## Project Repositories
+These are repositories of our project : 
+- [Machine Learning Food Object Detection](https://github.com/abriyanyusuf/C23PS423_Food-Object-Detection) <br>
+- [Machine Learning Food Recommendation System](https://github.com/hermanyosep/FRS_C23-PS423) <br>
+- [Mobile Development](https://github.com/abdullathifaziz/PC_IDoEat) <br>
+- [Cloud Computing](https://github.com/danicakirana/C23PS423_CC) <br>
 
+### Public Dataset 
+[ECUST Food Dataset](https://github.com/Liang-yc/ECUSTFD-resized-) <br>
+[Calories in Food Items (per 100 grams)](https://www.kaggle.com/datasets/kkhandekar/calories-in-food-items-per-100-grams) <br>
+[Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
-## Our Import Library on Project
-For development you must install several import in your local computer (on Jupyter Notebook) or you can run on Google Colaboratory:
-```text
+### Additional dataset Google Drive  
+[Calories in Food Items per 100 grams Modified Dataset](https://docs.google.com/spreadsheets/d/1NpLukLfHSIKOz2mk2QtLYaef0Ka5PaM5/edit?usp=sharing&ouid=109136081789719236546&rtpof=true&sd=true)
 
-```
-For development in Android Studio you need environment in this below:
-```
-
-```
-
-For development in Backend and prepare API consume you need environment in this below:
-```
-
-```
-
-For using our project you must clone clone, this below the link:
-<br>
-
-```bash
-# cloning project Machine Learning
-$ git clone https://github.com/
-# cloning project Mobile Development
-$ git clone https://github.com/
-# cloning project Cloud Computing
-$ git clone https://github.com/
-
-```
